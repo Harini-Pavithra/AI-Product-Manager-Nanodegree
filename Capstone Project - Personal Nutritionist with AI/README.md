@@ -1,6 +1,6 @@
-# Capstone Project 
+# Capstone Project - Personal Nutrionist with AI Mobile Application
 
-## Introduction 
+# Introduction 
 
 In this project, we will develop a business proposal for an AI product. There are several important aspects of product development we need to think about and describe.
 This project is open-ended in that we can propose any product in any industry that we want.
@@ -48,7 +48,7 @@ The detailed desecription of the propsoal along with the use cases is available 
 
 # Screenshots
 
-Some of the images of the user interfaces of the proposed product are provided below.
+Some of the images of the user interfaces for the proposed product are provided below.
 
 ## Page 1
 
@@ -70,4 +70,4 @@ Image of Page 3 of the application
 
 # Review from Udacity Mentor 
 
-
+![Review](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Capstone%20Project%20-%20Personal%20Nutritionist%20with%20AI/Review.JPG)
