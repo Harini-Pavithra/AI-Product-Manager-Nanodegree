@@ -64,9 +64,13 @@ The following steps will guide us through the process of creating and training a
 Download Kaggle Chest X-Ray Images (Pneumonia) Dataset from the below link,                                                                             
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia#chest_xray.zip.
 
+![Kaggle_Dataset](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Screenshots/Kaggle_Dataset.JPG)
+
 ## Step 2
 
 Go to Google AutoML: https://cloud.google.com/automl/.
+
+![Google_Cloud](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Screenshots/Google_Cloud.JPG)
 
 ## Step 3
 
