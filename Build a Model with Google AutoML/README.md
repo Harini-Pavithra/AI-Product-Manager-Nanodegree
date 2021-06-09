@@ -105,9 +105,13 @@ Once on the dashboard click “Get Started” on AutoML Image Classification.
 
 Accept all the screens then we will reach the last page where we have to set up billing and Vision API.
 
+![Billing](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Screenshots/Billing.png)
+
 ## Step 9 
 
 When we go to billing we should see an option to activate free $300 credit at the top of the screen. Click “ACTIVATE”.
+
+![Activation](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Screenshots/Activation.png)
  
 ## Step 10
 
