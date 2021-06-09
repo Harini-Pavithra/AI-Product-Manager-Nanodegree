@@ -115,7 +115,9 @@ When we go to billing we should see an option to activate free $300 credit at th
  
 ## Step 10
 
-Select “Individual” account type and input all necessary info including card. Google does not charge this card unless you manually upgrade to a paid account.
+We now provide our Email ID and click on next.Then select “Individual” account type and input all necessary info including card. Google does not charge this card unless you manually upgrade to a paid account.
+
+![Individual_Account](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Screenshots/Individual_Account.png)
 
 ## Step 11
 
