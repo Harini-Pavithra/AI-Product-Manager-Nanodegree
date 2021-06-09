@@ -101,11 +101,12 @@ Next create a project with any title.
 
 Once on the dashboard click “Get Started” on AutoML Image Classification.
 
+![Image_Classification](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Screenshots/Image_Classification.JPG)
+
 ## Step 8 
 
 Accept all the screens then we will reach the last page where we have to set up billing and Vision API.
 
-![Billing](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Screenshots/Billing.png)
 
 ## Step 9 
 
@@ -117,7 +118,6 @@ When we go to billing we should see an option to activate free $300 credit at th
 
 We now provide our Email ID and click on next.Then select “Individual” account type and input all necessary info including card. Google does not charge this card unless you manually upgrade to a paid account.
 
-![Individual_Account](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Screenshots/Individual_Account.png)
 
 ## Step 11
 
