@@ -142,6 +142,7 @@ Next,we should see the Datasets page. Click “NEW DATASET” at the top of the 
 
 Select “Single-Label Classification”.
 
+![Single_Label_Classification](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Screenshots/Single_Label_Classification.png)
 
 ## Step 14
 
