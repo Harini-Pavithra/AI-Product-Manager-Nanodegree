@@ -107,6 +107,7 @@ Once on the dashboard click “Get Started” on AutoML Image Classification.
 
 Accept all the screens then we will reach the last page where we have to set up billing and Vision API.
 
+![Billing](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Screenshots/Billing.png)
 
 ## Step 9 
 
@@ -116,13 +117,21 @@ When we go to billing we should see an option to activate free $300 credit at th
  
 ## Step 10
 
-We now provide our Email ID and click on next.Then select “Individual” account type and input all necessary info including card. Google does not charge this card unless you manually upgrade to a paid account.
+We now provide our Email ID and click on next.Once the phone number is verified, we will be redirecting to the last page for activating the credit. Then select “Individual” account type and input all necessary info including card. Google does not charge this card unless you manually upgrade to a paid account.
+https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Screenshots/Individual_Account.png)
+![Adding_Card_1](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Screenshots/Adding_Card_1.JPG)
+
+![Adding_Card_2](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Screenshots/Adding_Card_2.JPG)
+
+![Individual_Account](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Screenshots/Individual_Account.png)
 
 
 ## Step 11
 
 Once we have completed the billing we can go back to the project set up page and click “SET UP NOW” to enable the vision API. This will automatically set up the API 
 and should redirect us to select the Google Cloud Project.In the dropdown we should see the project that we created. Select the project and continue.
+
+![Enable_API](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Screenshots/Enable_API.JPG)
 
 ## Step 12
 
