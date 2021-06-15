@@ -119,6 +119,7 @@ When we go to billing we should see an option to activate free $300 credit at th
 
 We now provide our Email ID and click on next.Once the phone number is verified, we will be redirecting to the last page for activating the credit. Then select “Individual” account type and input all necessary info including card. Google does not charge this card unless you manually upgrade to a paid account.
 https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Screenshots/Individual_Account.png)
+
 ![Adding_Card_1](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Screenshots/Adding_Card_1.JPG)
 
 ![Adding_Card_2](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Screenshots/Adding_Card_2.JPG)
@@ -141,6 +142,7 @@ Next,we should see the Datasets page. Click “NEW DATASET” at the top of the 
 
 Select “Single-Label Classification”.
 
+
 ## Step 14
 
 Create your dataset.Create your dataset.
@@ -153,6 +155,8 @@ Create your dataset.Create your dataset.
 4. Then copy between 100-300 images of each type of each classification from the original train/ folder (normal, pneumonia) into the appropriate new folder. 
 The exact number of images in each folder will depend on which of the four parts of the project you are solving,Once you have your images in the new folders 
 then zip the whole Case 1/ folder to create Case 1.zip.
+
+![Folders](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Screenshots/Folders.JPG)
 
 ## Step 15
 
