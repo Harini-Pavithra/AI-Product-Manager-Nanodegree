@@ -172,6 +172,8 @@ This step make take a few minutes to upload all the images and set up the datase
 Once the data is ready we should see a screen with all the images we added as well as a label of “normal” or “pneumonia” under each image. 
 These are the images and ground truth labels that will be used to train/test/validate your pneumonia detector model.
 
+![Dataset](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Case%201_Screenshots/Dataset.JPG)
+
 ## Step 17
 
 Next click on the “TRAIN” tab and here we will see the distribution of images as well as the splits for training, validation, and test images.
