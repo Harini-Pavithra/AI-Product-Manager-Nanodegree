@@ -188,6 +188,10 @@ Click “START TRAINING” to begin training your pneumonia classification model
 
 Now the model is in the training phase.This will take some time. Once the model training is done we will be notified via email and we can see the below results.
 
+![Model_Result](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Case%201_Screenshots/Model_Result.JPG)
+
+![Model_Result_1](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Case%201_Screenshots/Model_Result_1.JPG)
+
 ## Step 20
 
 Once the training is complete we can click on the “EVALUATE” tab and we will see various metrics about the model such as precision, recall, and a confusion matrix.
