@@ -176,13 +176,17 @@ These are the images and ground truth labels that will be used to train/test/val
 
 Next click on the “TRAIN” tab and here we will see the distribution of images as well as the splits for training, validation, and test images.
 
+![Train](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Case%201_Screenshots/Train.JPG)
+
 ## Step 18
 
 Click “START TRAINING” to begin training your pneumonia classification model. In the options keep all the defaults (Cloud-hosted, 8 node hour) and then start the training.
 
+![Training](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Case%201_Screenshots/Training.JPG)
+
 ## Step 19
 
-Now the model is in the training phase.This will take some time. Once the model training is done we will be notified via email.
+Now the model is in the training phase.This will take some time. Once the model training is done we will be notified via email and we can see the below results.
 
 ## Step 20
 
