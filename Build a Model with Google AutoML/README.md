@@ -209,6 +209,8 @@ Optional: Next click on the “TEST&USE” tab and this is where we can test the
 select an image from the Kaggle dataset that we did NOT use in the training set of images and watch the model predict whether or not the patient in the x-ray has pneumonia or 
 not.Try to find images that produce both correct and wrong predictions.
 
+![Deploy](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Deploy/Deploy.jpg)
+
 ## Step 22
 
 That's it! we've built our first AI model! Now that we know how to upload data and train the model, follow the steps above for 3 additional variations on the dataset, 
