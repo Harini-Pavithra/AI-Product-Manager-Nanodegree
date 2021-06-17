@@ -211,6 +211,8 @@ not.Try to find images that produce both correct and wrong predictions.
 
 ![Deploy](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Deploy/Deploy.jpg)
 
+![Deploy_1](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Deploy/Deploy_1.png)
+
 ## Step 22
 
 That's it! we've built our first AI model! Now that we know how to upload data and train the model, follow the steps above for 3 additional variations on the dataset, 
