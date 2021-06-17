@@ -199,6 +199,10 @@ Now the model is in the training phase.This will take some time. Once the model 
 Once the training is complete we can click on the “EVALUATE” tab and we will see various metrics about the model such as precision, recall, and a confusion matrix.
 Try to understand what each of these metrics means and how they are calculated.
 
+![Evaluation](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Case%201_Screenshots/Evaluation.JPG)
+
+![Confusion_Matrix](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Case%201_Screenshots/Confusion_Matrix.JPG)
+
 ## Step 21
 
 Optional: Next click on the “TEST&USE” tab and this is where we can test the model on new data that the model has never seen. If we click “UPLOAD IMAGES” and 
