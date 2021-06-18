@@ -226,3 +226,5 @@ for a total of 4 models.Recommend creating new folders, new zip files, and new d
       
 Once you have completed the project, don't forget to disable the Google Cloud Platform billing for this project. 
 
+Review from Udacity Mentor
+
