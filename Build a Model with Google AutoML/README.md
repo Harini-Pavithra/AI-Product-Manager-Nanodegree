@@ -153,6 +153,9 @@ Create your dataset.Create your dataset.
 
 ![Dataset_details](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Screenshots/Dataset_details.JPG)
 
+![Bucket_Creation](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Screenshots/Bucket_Creation.JPG)
+
+![Dataset_List](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Screenshots/Dataset_List.jpg)
 
 2. Open the folder of Chest Xrays we downloaded from Kaggle and go into the train folder.
 3. In a separate folder create a directory with the following structure:
