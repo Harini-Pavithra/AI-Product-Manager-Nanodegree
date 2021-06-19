@@ -136,7 +136,9 @@ and should redirect us to select the Google Cloud Project.In the dropdown we sho
 
 ## Step 12
 
-Next,we should see the Datasets page. Click “NEW DATASET” at the top of the page.
+Next,we should see the Datasets page. Click “Create” at the top of the page.
+
+![Create_Dataset](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Screenshots/Create_Dataset.JPG)
 
 ## Step 13
 
@@ -147,7 +149,11 @@ Select “Single-Label Classification”.
 ## Step 14
 
 Create your dataset.Create your dataset.
-1. Give the dataset a name.
+1. Give the dataset a name and create bucket by clicking on "Browse" under Upload data option.
+
+![Dataset_details](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Screenshots/Dataset_details.JPG)
+
+
 2. Open the folder of Chest Xrays we downloaded from Kaggle and go into the train folder.
 3. In a separate folder create a directory with the following structure:
    - (Main folder) Case 1/
