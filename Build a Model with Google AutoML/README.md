@@ -168,6 +168,8 @@ then zip the whole Case 1/ folder to create Case 1.zip.
 
 ![Folders](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Screenshots/Folders.JPG)
 
+![All_Files](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Screenshots/All_Files.JPG)
+
 ## Step 15
 
 Now back in the AutoML Console Dataset go ahead and upload the zip file with all the images. Again, make sure we zipped the top-level folder 
