@@ -178,6 +178,8 @@ This will allow AutoML to automatically detect the correct ground truth label fo
 Once the zip file is attached go ahead and “CREATE DATASET”. For our current labeling scheme, there is no need to select the button to "Enable multi-label classification" (this allows you to apply multiple labels to a single image). 
 This step make take a few minutes to upload all the images and set up the dataset.
 
+![Import_Dataset](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Screenshots/Import_Dataset.jpg)
+
 ## Step 16
 
 Once the data is ready we should see a screen with all the images we added as well as a label of “normal” or “pneumonia” under each image. 
@@ -237,5 +239,5 @@ for a total of 4 models.Recommend creating new folders, new zip files, and new d
       
 Once you have completed the project, don't forget to disable the Google Cloud Platform billing for this project. 
 
-Review from Udacity Mentor
+# Review from Udacity Mentor
 
