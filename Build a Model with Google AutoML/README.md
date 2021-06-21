@@ -247,5 +247,8 @@ The various screenshots for Case 2(Unbalanced data),Case 3(Dirty data),Case 4(3-
 
 [Case 4_Screenshots](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/tree/main/Build%20a%20Model%20with%20Google%20AutoML/Case%204_Screenshots)
 
+and a detailed AutoML Modeling report can be found in [automl modeling report.pdf](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/automl-modeling-report.pdf)
+
 # Review from Udacity Mentor
 
+![Review](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Build%20a%20Model%20with%20Google%20AutoML/Review/Review.JPG)
