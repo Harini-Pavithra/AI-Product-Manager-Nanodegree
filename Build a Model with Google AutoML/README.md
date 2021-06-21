@@ -239,5 +239,9 @@ for a total of 4 models.Recommend creating new folders, new zip files, and new d
       
 Once you have completed the project, don't forget to disable the Google Cloud Platform billing for this project. 
 
+The various screenshots for Case 2(Unbalanced data),Case 3(Dirty data),Case 4(3-Class data) are available in
+
+[Case 2 Screenshots](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/tree/main/Build%20a%20Model%20with%20Google%20AutoML/Case%202_Screenshots)
+
 # Review from Udacity Mentor
 
