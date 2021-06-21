@@ -243,5 +243,9 @@ The various screenshots for Case 2(Unbalanced data),Case 3(Dirty data),Case 4(3-
 
 [Case 2 Screenshots](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/tree/main/Build%20a%20Model%20with%20Google%20AutoML/Case%202_Screenshots)
 
+[Case 3 Screenshots](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/tree/main/Build%20a%20Model%20with%20Google%20AutoML/Case%203_Screenshots)
+
+[Case 4_Screenshots](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/tree/main/Build%20a%20Model%20with%20Google%20AutoML/Case%204_Screenshots)
+
 # Review from Udacity Mentor
 
