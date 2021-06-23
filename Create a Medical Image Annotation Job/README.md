@@ -10,3 +10,10 @@ Our goal, as a product owner is to build a product that helps doctors quickly id
 If we intend to purchase any services through Appen, we need want to use a valid business email.so, we can receive notifications. But for the project, if we do not have a business email, we can use the above workaround in the meantime.
 
 we will not be required to actually launch the data labeling job, we be evaluated on submitted documents and design only by Udacity mentor team.
+
+# The Data
+
+The dataset we'll be given is a modified version of this [Kaggle chest x-ray dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia), with most labels removed. Every piece of data is a chest x-ray image. We may see images taken that are slightly different in size and taken under slightly different exposure times. A typical, labeled image is shown below.
+
+
+A labeled, healthy, chest x-ray image. Pay close attention to the two lungs and diaphragm (below the lungs)
