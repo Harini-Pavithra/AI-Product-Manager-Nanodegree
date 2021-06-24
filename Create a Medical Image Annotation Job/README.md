@@ -35,4 +35,13 @@ Examples of pneumonia symptoms: (Left) a concentrated, opaque area in the lungs,
 
 Note: we may download the above images for use in our annotator Instructions, if we want to.
 
+# Designing a Data Labeling Job
+One of our biggest tasks will be to design an appropriate data labeling job using Appen's platform. We need to submit an HTML file of a complete job Preview, which includes: 
+1. Instructions for annotation and
+2. Example test questions. 
+
+We also need to submit a Proposal document that discusses the design of the job and steps we'll take for quality assurance.
+
+We don't need to launch the annotation job; we are only creating one to demonstrate our ability to create a dataset.
+
 
