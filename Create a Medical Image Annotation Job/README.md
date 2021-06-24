@@ -36,6 +36,7 @@ Examples of pneumonia symptoms: (Left) a concentrated, opaque area in the lungs,
 Note: we may download the above images for use in our annotator Instructions, if we want to.
 
 # Designing a Data Labeling Job
+
 One of our biggest tasks will be to design an appropriate data labeling job using Appen's platform. We need to submit an HTML file of a complete job Preview, which includes: 
 1. Instructions for annotation and
 2. Example test questions. 
@@ -44,4 +45,12 @@ We also need to submit a Proposal document that discusses the design of the job 
 
 We don't need to launch the annotation job; we are only creating one to demonstrate our ability to create a dataset.
 
+# Good Annotator Instructions (Handling Uncertainty)
 
+This is a very challenging classification task and so we should provide clear examples and instructions to potential annotators.
+
+1. We may choose to have annotators try to label an image as pneumonia or not (binary classification); if this is the case, we should include an Unknown or Other option to account for uncertainty in an annotation.
+2. We may also choose to have annotators describe how likely they think a case of pneumonia is in a given image, and we could measure this on a numerical scale; 0-n for their confidence that an image contains pneumonia symptoms or not. A scale like this automatically includes room for low-confidence and uncertainty.
+3. In our Proposal document, we will discuss our design choices and methods for quality assurance.
+
+It is suggested that we start with an Appen job-template, and customize it to this particular task. And we can read more about the platform, next.
