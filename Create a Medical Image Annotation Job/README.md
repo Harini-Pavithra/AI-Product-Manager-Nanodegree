@@ -31,11 +31,10 @@ There are a few different visual symptoms that indicate pneumonia. The most impo
 2. A pneumonia image may include a few things: areas of cloudiness/opacity in several concentrated areas or one large area. You may also see a general pattern of opacity that obscures the structure of the lungs, heart and diaphragm.
 
 ![Healthy_Example](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Create%20a%20Medical%20Image%20Annotation%20Job/Screenshots/Healthy_Example.png)
-                                              some characteristics of a healthy image: a clear lung area
+          some characteristics of a healthy image: a clear lung area
  
 ![Pneumonia_Examples](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Create%20a%20Medical%20Image%20Annotation%20Job/Screenshots/Pneumonia_Examples.png)
-![Pneumonia-Examples_1](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Create%20a%20Medical%20Image%20Annotation%20Job/Screenshots/Pneumonia-Examples_1.png)
-                    Examples of pneumonia symptoms: (First Image) a concentrated, opaque area in the lungs, (Second Image) multiple, smaller opaque areas throughout the lung                                                                       area and any diaphragm shadow is obscured.
+                    Examples of pneumonia symptoms: (Left) a concentrated, opaque area in the lungs, (Right) multiple, smaller opaque areas throughout the lung                                                                       area and any diaphragm shadow is obscured.
 
 Note: we may download the above images for use in our annotator Instructions, if we want to.
 
