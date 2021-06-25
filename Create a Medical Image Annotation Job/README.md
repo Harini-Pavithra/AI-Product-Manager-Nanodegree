@@ -16,7 +16,7 @@ we will not be required to actually launch the data labeling job, we be evaluate
 The dataset we'll be given is a modified version of this [Kaggle chest x-ray dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia), with most labels removed. Every piece of data is a chest x-ray image. We may see images taken that are slightly different in size and taken under slightly different exposure times. A typical, labeled image is shown below.
 
 ![Annotated_Chest_Xray](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Create%20a%20Medical%20Image%20Annotation%20Job/Screenshots/Annotated_Chest_Xray.png)
-                              A labeled, healthy, chest x-ray image. Pay close attention to the two lungs and diaphragm (below the lungs)
+<p align="center"> A labeled, healthy, chest x-ray image. Pay close attention to the two lungs and diaphragm (below the lungs) </p>
 
 # What Does Pneumonia Look Like?
 
@@ -31,10 +31,10 @@ There are a few different visual symptoms that indicate pneumonia. The most impo
 2. A pneumonia image may include a few things: areas of cloudiness/opacity in several concentrated areas or one large area. You may also see a general pattern of opacity that obscures the structure of the lungs, heart and diaphragm.
 
 ![Healthy_Example](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Create%20a%20Medical%20Image%20Annotation%20Job/Screenshots/Healthy_Example.png)
-          some characteristics of a healthy image: a clear lung area
+         <p align="center"> some characteristics of a healthy image: a clear lung area </p>
  
 ![Pneumonia_Examples](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Create%20a%20Medical%20Image%20Annotation%20Job/Screenshots/Pneumonia_Examples.png)
-                    Examples of pneumonia symptoms: (Left) a concentrated, opaque area in the lungs, (Right) multiple, smaller opaque areas throughout the lung                                                                       area and any diaphragm shadow is obscured.
+            <p align="center"> Examples of pneumonia symptoms: (Left) a concentrated, opaque area in the lungs, (Right) multiple, smaller opaque areas throughout the lung       area and any diaphragm shadow is obscured. </p>
 
 Note: we may download the above images for use in our annotator Instructions, if we want to.
 
