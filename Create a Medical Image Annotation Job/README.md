@@ -16,7 +16,7 @@ we will not be required to actually launch the data labeling job, we be evaluate
 The dataset we'll be given is a modified version of this [Kaggle chest x-ray dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia), with most labels removed. Every piece of data is a chest x-ray image. We may see images taken that are slightly different in size and taken under slightly different exposure times. A typical, labeled image is shown below.
 
 ![Annotated_Chest_Xray](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Create%20a%20Medical%20Image%20Annotation%20Job/Screenshots/Annotated_Chest_Xray.png)
-A labeled, healthy, chest x-ray image. Pay close attention to the two lungs and diaphragm (below the lungs)
+                              A labeled, healthy, chest x-ray image. Pay close attention to the two lungs and diaphragm (below the lungs)
 
 # What Does Pneumonia Look Like?
 
@@ -30,8 +30,12 @@ There are a few different visual symptoms that indicate pneumonia. The most impo
 1. A normal, healthy image will depict clear lungs without any areas of abnormal cloudiness/opacity; there may be structured, web-like vasculature in the lungs but otherwise that area should be clear. In healthy images, you are also more likely to see a diaphragm shadow.
 2. A pneumonia image may include a few things: areas of cloudiness/opacity in several concentrated areas or one large area. You may also see a general pattern of opacity that obscures the structure of the lungs, heart and diaphragm.
 
-
-Examples of pneumonia symptoms: (Left) a concentrated, opaque area in the lungs, (Right) multiple, smaller opaque areas throughout the lung area and any diaphragm shadow is obscured.
+![Healthy_Example](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Create%20a%20Medical%20Image%20Annotation%20Job/Screenshots/Healthy_Example.png)
+                                              some characteristics of a healthy image: a clear lung area
+ 
+![Pneumonia_Examples](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Create%20a%20Medical%20Image%20Annotation%20Job/Screenshots/Pneumonia_Examples.png)
+![Pneumonia-Examples_1](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Create%20a%20Medical%20Image%20Annotation%20Job/Screenshots/Pneumonia-Examples_1.png)
+                    Examples of pneumonia symptoms: (First Image) a concentrated, opaque area in the lungs, (Second Image) multiple, smaller opaque areas throughout the lung                                                                       area and any diaphragm shadow is obscured.
 
 Note: we may download the above images for use in our annotator Instructions, if we want to.
 
