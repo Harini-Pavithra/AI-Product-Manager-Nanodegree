@@ -70,5 +70,9 @@ we want to create a job for Image Annotation, where the annotators will check th
 
 ## Step 3:
 
-Under the Image Annotation category, we need to select the template that we think will be best suited for creating the annotation job. Using the Preview section while screening for templates will give us a fair idea of how useful a template is for our given job. Here, we want to identify whether any given image contains a parking image or not, so we use the image categorization template under the image annotation category
+Under the Image Annotation category, we need to select the template that we think will be best suited for creating the annotation job. Using the Preview section while screening for templates will give us a fair idea of how useful a template is for our given job. Here, we want to identify whether any given image contains a Pneumnia signs or not, so we use the image categorization template under the image annotation category
+
+## Step 4
+
+On selecting Use this template under the Image Categorization category, we are prompted to upload our dataset as seen in the step below, here we can click on the browse button and upload the required dataset
 
