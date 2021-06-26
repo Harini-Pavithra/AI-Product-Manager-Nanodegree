@@ -57,3 +57,18 @@ This is a very challenging classification task and so we should provide clear ex
 3. In our Proposal document, we will discuss our design choices and methods for quality assurance.
 
 It is suggested that we start with an Appen job-template, and customize it to this particular task. And we can read more about the platform, next.
+
+# Create a Medical Image Annotation Job with Appen 
+
+## Step 1
+
+Login to Appen using our credentials. We will see the landing page as depicted below. On the basis of the kind of job that you want to create, select one of the following options :
+
+## Step 2
+
+we want to create a job for Image Annotation, where the annotators will check the presence of Pneumonia signs in a set of images given to them.
+
+## Step 3:
+
+Under the Image Annotation category, we need to select the template that we think will be best suited for creating the annotation job. Using the Preview section while screening for templates will give us a fair idea of how useful a template is for our given job. Here, we want to identify whether any given image contains a parking image or not, so we use the image categorization template under the image annotation category
+
