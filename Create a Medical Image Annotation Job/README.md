@@ -76,7 +76,13 @@ we want to create a job for Image Annotation, where the annotators will check th
 
 Under the Image Annotation category, we need to select the template that we think will be best suited for creating the annotation job. Using the Preview section while screening for templates will give us a fair idea of how useful a template is for our given job. Here, we want to identify whether any given image contains a Pneumnia signs or not, so we use the image categorization template under the image annotation category
 
+![Image_Categorization](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Create%20a%20Medical%20Image%20Annotation%20Job/Screenshots/Image_Categorization.png)
+
+![Preview](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Create%20a%20Medical%20Image%20Annotation%20Job/Screenshots/Preview.JPG)
+
+
 ## Step 4
 
 On selecting Use this template under the Image Categorization category, we are prompted to upload our dataset as seen in the step below, here we can click on the browse button and upload the required dataset
+
 
