@@ -64,9 +64,13 @@ It is suggested that we start with an Appen job-template, and customize it to th
 
 Login to Appen using our credentials. We will see the landing page as depicted below. On the basis of the kind of job that you want to create, select one of the following options :
 
+![Appen_Platform](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Create%20a%20Medical%20Image%20Annotation%20Job/Screenshots/Appen_Platform.JPG)
+
 ## Step 2
 
 we want to create a job for Image Annotation, where the annotators will check the presence of Pneumonia signs in a set of images given to them.
+
+![Image_Annotations](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Create%20a%20Medical%20Image%20Annotation%20Job/Screenshots/Image_Annotations.png)
 
 ## Step 3:
 
