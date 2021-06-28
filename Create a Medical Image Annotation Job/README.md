@@ -97,5 +97,6 @@ Now, with data at our disposal and the notification in the lower right corner (i
 
 In this important step, we want to map our data to the existing template. Many students skip this step, but this is a crucial step to align the template with our data
 
+In this mapping, we match (just drag and drop) appropriate columns from Your Data (on L.H.S) to the Template column (on R.H.S) and click on Save Mapping.
 
 
