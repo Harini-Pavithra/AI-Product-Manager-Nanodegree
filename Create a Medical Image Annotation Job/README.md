@@ -85,4 +85,13 @@ Under the Image Annotation category, we need to select the template that we thin
 
 On selecting Use this template under the Image Categorization category, we are prompted to upload our dataset as seen in the step below, here we can click on the browse button and upload the required dataset
 
+## Step 5
+
+On the successful upload of the dataset, we will see the entire dataset in the format shown below
+
+## Step 6
+
+Now, with data at our disposal and the notification in the lower right corner (in green) stating that our file upload was successfully processed, we want to DESIGN our job to help the annotators, so we go to the second tab above which is DESIGN as can be seen below :
+
+
 
