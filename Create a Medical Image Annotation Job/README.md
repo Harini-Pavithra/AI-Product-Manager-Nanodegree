@@ -93,5 +93,9 @@ On the successful upload of the dataset, we will see the entire dataset in the f
 
 Now, with data at our disposal and the notification in the lower right corner (in green) stating that our file upload was successfully processed, we want to DESIGN our job to help the annotators, so we go to the second tab above which is DESIGN as can be seen below :
 
+## Step 7
+
+In this important step, we want to map our data to the existing template. Many students skip this step, but this is a crucial step to align the template with our data
+
 
 
