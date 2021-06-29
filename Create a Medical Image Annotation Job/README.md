@@ -104,4 +104,9 @@ In this mapping, we match (just drag and drop) appropriate columns from Your Dat
 The next step is to edit the Title, CML code and Instructions according to the job we have in hand. Since we want our annotators to identify whether an image contains a Pneumonia signs or not, we edit all the three accordingly, as can be seen in the image below
 
 We can see that we have edited the Title to suit our job. The next critical step is to edit the CML code for the same. We are simply asking the annotators a question, whether they think that there is a Pneumonia sign in the given image or not, so we have two options Yes and No (which were already present in the template). To account for uncertainty because of the lack of clarity in pictures, we add one more checkbox to the existing Yes and No, a Maybe button for
-when the annotators are unable to figure out if a parking sign actually exists and we simply edit out the rest of the code. This is how the above CML code edit renders as a UI element.
+when the annotators are unable to figure out if a parking sign actually exists and we simply edit out the rest of the code. This is how the above CML code edit renders as a UI element:
+
+This step might be baffling at first, but on thorough observation, we will figure out how we can customise this CML code to suit your job. If it’s still not clear, we can always get additional help from the help document on CML reference which is displayed to the right side of this editor (as
+can be seen below) :
+
+
