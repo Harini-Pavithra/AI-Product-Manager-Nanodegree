@@ -109,4 +109,4 @@ when the annotators are unable to figure out if a parking sign actually exists a
 This step might be baffling at first, but on thorough observation, we will figure out how we can customise this CML code to suit your job. If it’s still not clear, we can always get additional help from the help document on CML reference which is displayed to the right side of this editor (as
 can be seen below) :
 
-
+Clicking on any one of the items in this list will explain the what, how, when and whys of the CML code elements being used in the editor. Please note that we simply need to edit the basic CML code to suit our job, we do not need to delve too deep into the CML coding.
