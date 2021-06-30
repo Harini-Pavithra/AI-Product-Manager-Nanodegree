@@ -110,3 +110,13 @@ This step might be baffling at first, but on thorough observation, we will figur
 can be seen below) :
 
 Clicking on any one of the items in this list will explain the what, how, when and whys of the CML code elements being used in the editor. Please note that we simply need to edit the basic CML code to suit our job, we do not need to delve too deep into the CML coding.
+
+## Step 9
+
+Next, we need to edit the Overview, Steps and Rules/Tips suited to our job. Remember that in this example, we are asking annotators to find whether an image contains a Pneumonia sign or not, so we need to edit the instructions accordingly as seen below 
+
+## Step 10
+
+We don’t need to bother about the images displayed under this section that are a part of the existing template, they can be edited out once we have our Test Questions designed. We can ignore them for now and come back to this step later. Simply click on the Save button.Please note that we can Preview the sections we have modified here, by clicking on the ‘eye’ button seen in the top right corner.
+
+
