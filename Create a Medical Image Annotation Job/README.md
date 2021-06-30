@@ -119,4 +119,4 @@ Next, we need to edit the Overview, Steps and Rules/Tips suited to our job. Reme
 
 We don’t need to bother about the images displayed under this section that are a part of the existing template, they can be edited out once we have our Test Questions designed. We can ignore them for now and come back to this step later. Simply click on the Save button.Please note that we can Preview the sections we have modified here, by clicking on the ‘eye’ button seen in the top right corner.
 
-
+Also note that we can only see the modified changes in Preview if we have edited and saved our changes using the Save button that is to the left of the Preview button
