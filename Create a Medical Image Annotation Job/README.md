@@ -136,3 +136,7 @@ Now we will start seeing images from the dataset that we just uploaded and we wi
 The idea here is to have the entire range of reference test images divided equally among the number of options we are providing. Since we are required to have 8 test images, we will find and answer such images so that the tally for each possible option that we have designed (Yes or No or Maybe) here is equal. This is to make sure that our job isn’t biased towards accepting and validating one specific option from the annotators. We can click the Skip Question button if we feel that the responses are getting biased towards one specific option. We can keep answering and checking the View Answer Distribution button (on top right) to keep a tally of whether every option is being given a fair weightage in our designed test. Remember that for each test question answered, we need to give a reason for why we chose that option in case test takers falter so they have a clear understanding of why they faltered and which images they annotated incorrectly. After checking the correct option and listing the reason, we click on Save
 and Create Another.
 
+### NOTE: 
+As we go about answering these questions, remember to take a few (2 or 3 max) screenshots of the images displayed (one for each option would be ideal) and the options
+provided below them so we can use them as a preview in Step 10
+
