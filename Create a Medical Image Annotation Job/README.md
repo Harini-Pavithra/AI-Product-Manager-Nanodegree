@@ -140,3 +140,12 @@ and Create Another.
 As we go about answering these questions, remember to take a few (2 or 3 max) screenshots of the images displayed (one for each option would be ideal) and the options
 provided below them so we can use them as a preview in Step 10
 
+## Step 14
+
+Once we have successfully answered the 8 test questions, we will see this message to the right
+
+we can click on View Answer Distribution to check whether each option has been given a fair chance. The following is the distribution of our test questions
+
+We see here that the questions are fairly equally distributed among the three options, if we want to continue to refine the weightages, we can answer a few more questions and check the answer distribution again.
+
+## Step 15
