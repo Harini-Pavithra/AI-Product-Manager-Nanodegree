@@ -149,3 +149,8 @@ we can click on View Answer Distribution to check whether each option has been g
 We see here that the questions are fairly equally distributed among the three options, if we want to continue to refine the weightages, we can answer a few more questions and check the answer distribution again.
 
 ## Step 15
+
+In the last step, we go back to the DESIGN tab (the second tab) on top, to eliminate the pictures from the templates and insert the pictures that we just took while answering the test question in Step 13, as can be seen below :
+
+Here, we have the option to eliminate both the existing images and add and align the newer images from our dataset to be displayed as a preview Once we have those images, 
+we can save the preview page as .html and CHEERS! We have the file that we need to submit along with the proposal. 
