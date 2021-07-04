@@ -105,7 +105,11 @@ Now, with data at our disposal and the notification in the lower right corner (i
 
 In this important step, we want to map our data to the existing template. Many students skip this step, but this is a crucial step to align the template with our data
 
+![MappingJPG](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Create%20a%20Medical%20Image%20Annotation%20Job/Screenshots/MappingJPG.JPG)
+
 In this mapping, we match (just drag and drop) appropriate columns from Your Data (on L.H.S) to the Template column (on R.H.S) and click on Save Mapping.
+
+![Mapping_Done](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Create%20a%20Medical%20Image%20Annotation%20Job/Screenshots/Mapping_Done.JPG)
 
 ## STEP 8
 
