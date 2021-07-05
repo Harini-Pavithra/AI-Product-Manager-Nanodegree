@@ -132,9 +132,13 @@ Clicking on any one of the items in this list will explain the what, how, when a
 
 Next, we need to edit the Overview, Steps and Rules/Tips suited to our job. Remember that in this example, we are asking annotators to find whether an image contains a Pneumonia sign or not, so we need to edit the instructions accordingly as seen below 
 
+![Instructions](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Create%20a%20Medical%20Image%20Annotation%20Job/Screenshots/Instructions.JPG)
+
 ## Step 10
 
 We don’t need to bother about the images displayed under this section that are a part of the existing template, they can be edited out once we have our Test Questions designed. We can ignore them for now and come back to this step later. Simply click on the Save button.Please note that we can Preview the sections we have modified here, by clicking on the ‘eye’ button seen in the top right corner.
+
+![Preview_Icon](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Create%20a%20Medical%20Image%20Annotation%20Job/Screenshots/Preview_Icon.jpg)
 
 Also note that we can only see the modified changes in Preview if we have edited and saved our changes using the Save button that is to the left of the Preview button.
 
