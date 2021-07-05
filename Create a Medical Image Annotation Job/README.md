@@ -146,9 +146,13 @@ Also note that we can only see the modified changes in Preview if we have edited
 
 The next step is to Create Test Questions, so click on the Create Test Questions button that can be found right under the Preview button.
 
+![Test_Questions](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Create%20a%20Medical%20Image%20Annotation%20Job/Screenshots/Test_Questions.png)
+
 ## Step 12
 
 After we click on the Create Test Questions button in Step 11, we see this page 
+
+![Quality](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Create%20a%20Medical%20Image%20Annotation%20Job/Screenshots/Quality.JPG)
 
 ## Step 13
 
