@@ -158,12 +158,18 @@ After we click on the Create Test Questions button in Step 11, we see this page
 
 Now we will start seeing images from the dataset that we just uploaded and we will need to answer 8 questions (they are displayed to us similarly to how annotators who we have created the job for would see them), which will act as a guide to test the annotator’s competency when we are onboarding them. Below is an example of the above mentioned view of the test 
 
+![Test_Question_1](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Create%20a%20Medical%20Image%20Annotation%20Job/Screenshots/Test_Question_1.JPG)
+
+![Test_Question_2](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Create%20a%20Medical%20Image%20Annotation%20Job/Screenshots/Test_Question_2.JPG)
+
 The idea here is to have the entire range of reference test images divided equally among the number of options we are providing. Since we are required to have 8 test images, we will find and answer such images so that the tally for each possible option that we have designed (Yes or No or Unknown) here is equal. This is to make sure that our job isn’t biased towards accepting and validating one specific option from the annotators. We can click the Skip Question button if we feel that the responses are getting biased towards one specific option. We can keep answering and checking the View Answer Distribution button (on top right) to keep a tally of whether every option is being given a fair weightage in our designed test. Remember that for each test question answered, we need to give a reason for why we chose that option in case test takers falter so they have a clear understanding of why they faltered and which images they annotated incorrectly. After checking the correct option and listing the reason, we click on Save
 and Create Another.
 
 ### NOTE: 
 As we go about answering these questions, remember to take a few (2 or 3 max) screenshots of the images displayed (one for each option would be ideal) and the options
 provided below them so we can use them as a preview in Step 10
+
+![Test_Question_3](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Create%20a%20Medical%20Image%20Annotation%20Job/Screenshots/Test_Question_3.JPG)
 
 ## Step 14
 
