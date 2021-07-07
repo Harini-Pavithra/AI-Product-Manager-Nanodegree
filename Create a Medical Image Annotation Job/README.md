@@ -175,13 +175,19 @@ provided below them so we can use them as a preview in Step 10
 
 Once we have successfully answered the 8 test questions, we will see this message to the right
 
+![Test_Questions_4](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Create%20a%20Medical%20Image%20Annotation%20Job/Screenshots/Test_Questions_4.png)
+
 we can click on View Answer Distribution to check whether each option has been given a fair chance. The following is the distribution of our test questions
+
+![Distribution](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Create%20a%20Medical%20Image%20Annotation%20Job/Screenshots/Distribution.JPG)
 
 We see here that the questions are fairly equally distributed among the three options, if we want to continue to refine the weightages, we can answer a few more questions and check the answer distribution again.
 
 ## Step 15
 
 In the last step, we go back to the DESIGN tab (the second tab) on top, to eliminate the pictures from the templates and insert the pictures that we just took while answering the test question in Step 13, as can be seen below :
+
+![Design_Alignment](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Create%20a%20Medical%20Image%20Annotation%20Job/Screenshots/Design_Alignment.JPG)
 
 Here, we have the option to eliminate both the existing images and add and align the newer images from our dataset to be displayed as a preview Once we have those images, 
 we can save the preview page as .html and CHEERS! We have the file that we need to submit along with the proposal. 
