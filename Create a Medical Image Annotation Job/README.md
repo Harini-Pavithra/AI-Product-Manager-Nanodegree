@@ -191,3 +191,5 @@ In the last step, we go back to the DESIGN tab (the second tab) on top, to elimi
 
 Here, we have the option to eliminate both the existing images and add and align the newer images from our dataset to be displayed as a preview Once we have those images, 
 we can save the preview page as .html and CHEERS! We have the file that we need to submit along with the proposal. 
+
+The detailed report can be found in [project proposal document] (https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Create%20a%20Medical%20Image%20Annotation%20Job/Data_Annotation_Project_Files/project-proposal.docx)
